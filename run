@@ -1,0 +1,7 @@
+#!/bin/bash
+
+function info(){
+  echo -e "\n\e[1m[INFO] $@...\e[0m\n"
+}
+
+info "in run file"
