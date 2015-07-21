@@ -1,0 +1,1 @@
+{"OpenShiftServer":"https://ose3-master.example.com:8443","ProjectName":"shrutika","BuildConfig":"testapp1","ServiceRoute":"http://testapp1-shrutika.cloudapps.example.com"}
